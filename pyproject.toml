@@ -61,6 +61,8 @@ pdf2image = "^1.17.0"
 beautifulsoup4 = "^4.12.3"
 mlx = {version = "^0.22.0", markers = "sys_platform == 'darwin'"}
 mlx-lm = {version = "^0.21.1", markers = "sys_platform == 'darwin'"}
+seaborn = "^0.13.2"
+langchain-unstructured = "^0.1.6"
 
 [build-system]
 requires = ["poetry-core"]
