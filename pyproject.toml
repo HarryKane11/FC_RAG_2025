@@ -63,6 +63,7 @@ mlx = {version = "^0.22.0", markers = "sys_platform == 'darwin'"}
 mlx-lm = {version = "^0.21.1", markers = "sys_platform == 'darwin'"}
 seaborn = "^0.13.2"
 langchain-unstructured = "^0.1.6"
+rapidocr-onnxruntime = "^1.4.4"
 
 [build-system]
 requires = ["poetry-core"]
