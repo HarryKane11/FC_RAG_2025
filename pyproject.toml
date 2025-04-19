@@ -64,6 +64,14 @@ mlx-lm = {version = "^0.21.1", markers = "sys_platform == 'darwin'"}
 seaborn = "^0.13.2"
 langchain-unstructured = "^0.1.6"
 rapidocr-onnxruntime = "^1.4.4"
+ollama = "^0.4.8"
+groq = "^0.22.0"
+together = "^1.5.5"
+cerebras-cloud-sdk = "^1.29.0"
+anthropic = "^0.49.0"
+google-generativeai = "^0.8.5"
+docling = "^2.30.0"
+pymupdf4llm = "^0.0.21"
 
 [build-system]
 requires = ["poetry-core"]
