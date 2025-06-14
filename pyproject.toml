@@ -72,6 +72,7 @@ anthropic = "^0.49.0"
 google-generativeai = "^0.8.5"
 docling = "^2.30.0"
 pymupdf4llm = "^0.0.21"
+rank-bm25 = "^0.2.2"
 
 [build-system]
 requires = ["poetry-core"]
